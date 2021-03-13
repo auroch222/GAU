@@ -25,7 +25,7 @@ from numpy import binary_repr
 # average = sum(number_list) / len(number_list)
 # print("average is {}".format(average))
 # 21) შეიყვანეთ 2 დადებითი მთელი რიცხვი. იპოვეთ ამ ორი რიცხვის უდიდესი საერთო გამყოფი.
-import math
+# import math
 # number_one = int(input("Please Enter Number 1: "))
 # number_two = int(input("Please Enter Number 2: "))
 # print('greatest common divisor is {}'.format(math.gcd(number_one, number_two)))
@@ -39,7 +39,7 @@ import math
 #         divs.extend([i,number/i])
 # divs.extend([number])
 # 26) დაბეჭდეთ 2-დან 1000-მდე ყველა მარტივი რიცხვი.
-import sympy
+# import sympy
 # [print(a) if sympy.isprime(a) is True else '' for a in range(2, 1000)]
 # 28) შეიყვანეთ ნებისმიერი რიცხი. იპოვეთ ამ რიცხვის ციფრთა რაოდენობა და დაბეჭდეთ.
 # n=int(input("Enter a number:"))
